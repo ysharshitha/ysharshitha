@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Harshitha y s
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Harshitha y 
 - 🌱 I’m currently learning Data Science And machine learning
 - 💞️ I’m looking to collaborate on all topics realted to Data Science.Machine Learning
 - 📫 How to reach me on my email id ysharshitha@29gmail.com
