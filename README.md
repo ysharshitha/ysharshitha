@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Harshitha y s
+Hi 👋 , I'm Harshitha y s
+- 🌱 I love learning as a process and moslty about new things...
+- 🔭 I'm currently working as an intern at Aivariant
 - 🌱 I’m currently learning Data Science And machine learning
-- 💞️ I’m looking to collaborate on all topics realted to Data Science.Machine Learning
+- 👯 I’m looking to collaborate on on all topics related to Data Science, Machine Learning 
 - 📫 How to reach me on my email id ysharshitha98@gmail.com
 
 <!---
